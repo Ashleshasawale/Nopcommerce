@@ -67,6 +67,13 @@ public class Register {
 	}
 	
 	
+	
+	
+	
+	
+	
+	
+	
 	public void Regdate(WebDriver driver,String date)
 	
 	{

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[test caseRegModule is successfully excuted]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-16T23:00:26 IST" name="testclass.RegisterModuleTest" finished-at="2022-12-16T23:01:13 IST" duration-ms="46844">
+    <groups>
+    </groups>
+    <test started-at="2022-12-16T23:00:26 IST" name="Command line test" finished-at="2022-12-16T23:01:13 IST" duration-ms="46844">
+      <class name="testclass.RegisterModuleTest">
+        <test-method is-config="true" signature="Launchapp()[pri:0, instance:testclass.RegisterModuleTest@671a5887]" started-at="2022-12-16T23:00:27 IST" name="Launchapp" finished-at="2022-12-16T23:01:04 IST" duration-ms="37538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchapp -->
+        <test-method is-config="true" signature="details()[pri:0, instance:testclass.RegisterModuleTest@671a5887]" started-at="2022-12-16T23:01:04 IST" name="details" finished-at="2022-12-16T23:01:13 IST" duration-ms="9006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method signature="RegModule()[pri:0, instance:testclass.RegisterModuleTest@671a5887]" started-at="2022-12-16T23:01:13 IST" name="RegModule" finished-at="2022-12-16T23:01:13 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test caseRegModule is successfully excuted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RegModule -->
+        <test-method is-config="true" signature="regis()[pri:0, instance:testclass.RegisterModuleTest@671a5887]" started-at="2022-12-16T23:01:13 IST" name="regis" finished-at="2022-12-16T23:01:13 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regis -->
+      </class> <!-- testclass.RegisterModuleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testclass.RegisterModuleTest -->
+</testng-results>

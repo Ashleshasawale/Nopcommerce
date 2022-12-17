@@ -22,6 +22,9 @@ public class BaseClassCommerce {
 		
 	}
 	
+	
+	
+	
 	public void closebrowser()
 	{
 		driver.close();

@@ -38,6 +38,15 @@ public class Register {
 	public Register(WebDriver driver)
 	{
 		PageFactory.initElements(driver, this);
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 	public void Regname(WebDriver driver,String name)
 	{

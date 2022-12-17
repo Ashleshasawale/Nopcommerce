@@ -25,6 +25,16 @@ public class Register {
 	@FindBy(xpath="//button[text()='Register']") private WebElement register;
 	
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	public Register(WebDriver driver)
 	{
 		PageFactory.initElements(driver, this);
